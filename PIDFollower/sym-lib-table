@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESP32DevBoard")(type "KiCad")(uri "${KIPRJMOD}/ESP32DevBoard.kicad_sym")(options "")(descr ""))
+  (lib (name "TB6612FNG")(type "KiCad")(uri "${KIPRJMOD}/TB6612FNG.kicad_sym")(options "")(descr ""))
+  (lib (name "LM7805Module")(type "KiCad")(uri "${KIPRJMOD}/LM7805Module.kicad_sym")(options "")(descr ""))
+  (lib (name "QTR-8RCModule")(type "KiCad")(uri "${KIPRJMOD}/QTR-8RCModule.kicad_sym")(options "")(descr ""))
+  (lib (name "N20MetalActuator")(type "KiCad")(uri "${KIPRJMOD}/N20MetalActuator.kicad_sym")(options "")(descr ""))
+  (lib (name "BatteryConnector")(type "KiCad")(uri "${KIPRJMOD}/BatteryConnector.kicad_sym")(options "")(descr ""))
+  (lib (name "SlideSwitch")(type "KiCad")(uri "${KIPRJMOD}/SlideSwitch.kicad_sym")(options "")(descr ""))
+)

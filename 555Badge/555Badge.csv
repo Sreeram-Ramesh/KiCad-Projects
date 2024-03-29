@@ -1,0 +1,17 @@
+#,Reference,Qty,Value,Footprint,MPN,Price,Total Price,Part Page
+1,BAT1,1,BS-7,digikey-footprints:Battery_Holder_Coin_2032_BS-7,BS-7,? 92.54,? 92.54,https://www.digikey.in/en/products/detail/mpd-memory-protection-devices/BS-7/389447
+2,Battery,1,3V,,CR2032,? 27.20,? 27.20,https://www.amazon.in/Duracell-Specialty-Lithium-Suitable-wearables/dp/B08Y1TQ8K7/ref=sr_1_3?keywords=cr2032+3v&sr=8-3
+3,C1,1,10uF,Capacitor_THT:CP_Radial_D5.0mm_P2.00mm,ECA-1HM-100,? 19.18,? 19.18,https://www.digikey.in/en/products/detail/panasonic-electronic-components/ECA-1HM100/245037
+4,C2,1,100uF,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm,35ZLH100,? 27.51,? 27.51,https://www.digikey.in/en/products/detail/rubycon/35ZLH100MEFC6-3X11/3134256
+5,"D1, D2",2,BLUE,LED_THT:LED_D3.0mm,OVLBB4C7,? 38.35,? 76.70,https://www.digikey.in/en/products/detail/tt-electronics-optek-technology/OVLBB4C7/827109
+6,Q1,1,2N3904,digikey-footprints:TO-92-3,2N3904BU,? 29.18,? 29.18,https://www.digikey.in/en/products/detail/onsemi/2N3904BU/1413
+7,"R1, R3",2,22k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,CF14JT22K0,? 8.34,? 16.68,https://www.digikey.in/en/products/detail/stackpole-electronics-inc/CF14JT22K0/1741350
+8,R2,1,330k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,CFR-25JT-52-330K,? 8.34,? 8.34,https://www.digikey.in/en/products/detail/yageo/CFR-25JT-52-330K/9098602
+9,R4,1,100k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,CF14JT100K,? 8.34,? 8.34,https://www.digikey.in/en/products/detail/stackpole-electronics-inc/CF14JT100K/1741263
+10,R5,1,10k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,CF14JT10K0,? 8.34,? 8.34,https://www.digikey.in/en/products/detail/stackpole-electronics-inc/CF14JT10K0/1741265
+11,"R6, R7",2,100,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,CF14JT100R,? 8.34,? 16.68,https://www.digikey.in/en/products/detail/stackpole-electronics-inc/CF14JT100R/1741261
+12,S1,1,EG1218,digikey-footprints:Switch_Slide_11.6x4mm_EG1218,EG1218,? 63.36,? 63.36,https://www.digikey.in/en/products/detail/e-switch/EG1218/101726
+13,U1,1,7555,555Badge:ICM7555-PDIP,ICM7555IPAZ,? 77.53,? 77.53,https://www.digikey.in/en/products/detail/renesas-electronics-corporation/ICM7555IPAZ/821488
+Total cost,,,,,,? 471.58,,
+PCB fabrication cost,,,,,,? 159.80,,
+Grand Total cost,,,,,,? 631.38,,
