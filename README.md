@@ -1,13 +1,16 @@
 
 # KiCad Projects
 
-An archive for all my KiCad project folders for various projects I've been working on. Find more about each of these KiCad projects on their respective repos wherein I have shared about the project itself.
+An archive for all my KiCad project folders for various projects I've been working on. Find more about each of these KiCad projects on their respective repos wherein I have shared about the project itself, here's a quick overview of my KiCad projects.
+
+## Overview
+
+<img src = "./3DObjects" />
 
 
 ## Feedback
 
 If you have any feedback for my work, or maybe would like to thank me for any of my custom footprints that you somehow found useful, please reach out to me at vgpsreeram@gmail.com
-
 
 ## Acknowledgements
 
