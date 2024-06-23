@@ -5,7 +5,7 @@ An archive for all my KiCad project folders for various projects I've been worki
 
 ## Overview
 
-Several attempts were made by me in the past to try out designing and printing PCBs for my personal high school projects. After constant yapping and getting my dad on-board for my PCB fab through JLC PCB, results were pretty bad cuz of my PCB design skills. Some pictures for context. Fast forwarding now, I understood high-school me was pretty dumb, or always that has been the case and I am living in delulu.
+Several attempts were made by me in the past to try out designing and printing PCBs for my high school projects. After constant yapping and getting my dad on board for my PCB fab through JLC PCB, the results were pretty bad cuz of my PCB design skills. Some pictures for context. Fast forwarding now, I understood high-school me was pretty dumb, or always that has been the case and I am living in delulu.
 
 <br>
 
@@ -20,7 +20,7 @@ With all that being said here are some of my recent projects.
 
 ### [1. 555 ID Badge](https://www.youtube.com/playlist?list=PLEBQazB0HUyR24ckSZ5u05TZHV9khgA1O)
 
-This project served as a great introduction for me in KiCad. I am grateful to Digikey and Shawn Hymel for their open-source project (resources below). Through this, I learned to create custom footprints, read datasheets, search for specific IC components for projects, and design according to the capabilities of the service provider.
+This project served as a great introduction for me to KiCad. I am grateful to Digikey and Shawn Hymel for their open-source project (resources below). Through this, I learned to create custom footprints, read datasheets, search for specific IC components for projects, and design according to the capabilities of the service provider.
 
 <br>
 
@@ -32,7 +32,7 @@ This project served as a great introduction for me in KiCad. I am grateful to Di
 
 ### [2. Pravega - The Line Follower](https://github.com/Sreeram-Ramesh/Pravega)
 
-Working on an agile line follower bot utilizing the PID control algorithm. This project is being developed in association with the Build Club SSN college. Looking to quickly realize it and bring it on the competitive stage.
+Working on an agile line follower bot utilizing the PID control algorithm. This project is being developed in association with the Build Club SSN college. Looking to quickly realize it and bring it to the competitive stage.
 
 <br>
 
@@ -44,7 +44,7 @@ Working on an agile line follower bot utilizing the PID control algorithm. This 
 
 ### 3. Valentino
 
-A development board, similar to the arduino, based on the ATMEGA328 chip, design brought to life on the Valentine's day. Pretty rudimentary design. Looking forward to my microcontrollers course in semester 4. Hoping to develop more on this and have my custom microcontroller board made one day. If you have got any resources you think can help me kindly let me know. Here are some specs:
+A development board, similar to the Arduino, based on the ATMEGA328 chip, design brought to life on Valentine's Day. Pretty rudimentary design. Looking forward to my microcontrollers course in semester 4. Hoping to develop more on this and have my custom microcontroller board made one day. If you have got any resources you think can help me kindly let me know. Here are some specs:
 
 - Clock Speed: 16 MHz
 - Supports SPI and UART
@@ -73,6 +73,6 @@ If you have any feedback for my work, or maybe would like to thank me for any of
 
 ## Licenses
 
-- [MIT](https://choosealicense.com/licenses/mit/)
-- [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+[![CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-green.svg)](https://creativecommons.org/licenses/by/4.0/)&nbsp;
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
